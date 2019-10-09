@@ -250,14 +250,27 @@ Most Recent App(s) 
 -  https://github.com/itdddjulius/Android-VoIP--Server_Client-.git 
 -  https://github.com/itdddjulius/Audio_Watermark.git
 
-Portfolio'sApps    
-: My AppsGames 
-: My GamesB2B      
+Portfolio's
+- Apps (http://www.raiiar.com/_index.html)    
+- Games (http://www.raiiar.com/games)
+- B2B  (http://www.raiiar.co.uk/menu/)    
 
-My B2BE-mail :  itddd.julius@gmail.com 
-Skype : (live:1794f4650ee90e3e)           : (itdddjulius Gmail.Com)
-Mobile :  07 39 39 36 118
-WebSite : http://www.raiiar.com
-V-Desk : https://webdesktop.net/
-Linkedin : https://www.linkedin.com/in/juliusitddd/
+My B2BE-mail 
+-  itddd.julius@gmail.com 
+
+Skype 
+- (live:1794f4650ee90e3e)           
+- (itdddjulius Gmail.Com)
+
+Mobile 
+-  07 39 39 36 118
+
+WebSite 
+- http://www.raiiar.com
+
+V-Desk 
+- https://webdesktop.net/
+
+Linkedin 
+- https://www.linkedin.com/in/juliusitddd/
 
