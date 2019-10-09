@@ -236,3 +236,28 @@ any new code inside of a new branch:
 Before committing and pushing code, please make sure all existing tests pass
 and that all new code has tests. Once that is verified, please push the changes
 and create a new pull request.
+
+
+## Feed-Back
+
+You are welcome to contact me with suggestions, tips or advice at:
+
+itddd.julius@gmail.com
+
+Julius   
+
+Most Recent App(s) 
+-  https://github.com/itdddjulius/Android-VoIP--Server_Client-.git 
+-  https://github.com/itdddjulius/Audio_Watermark.git
+
+Portfolio'sApps    
+: My AppsGames 
+: My GamesB2B      
+
+My B2BE-mail :  itddd.julius@gmail.com 
+Skype : (live:1794f4650ee90e3e)           : (itdddjulius Gmail.Com)
+Mobile :  07 39 39 36 118
+WebSite : http://www.raiiar.com
+V-Desk : https://webdesktop.net/
+Linkedin : https://www.linkedin.com/in/juliusitddd/
+
