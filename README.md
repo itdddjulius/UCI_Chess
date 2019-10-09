@@ -252,7 +252,9 @@ Most Recent App(s) 
 
 Portfolio's
 - Apps (http://www.raiiar.com/_index.html)    
+
 - Games (http://www.raiiar.com/games)
+
 - B2B  (http://www.raiiar.co.uk/menu/)    
 
 My B2BE-mail 
@@ -260,6 +262,7 @@ My B2BE-mail
 
 Skype 
 - (live:1794f4650ee90e3e)           
+
 - (itdddjulius Gmail.Com)
 
 Mobile 
